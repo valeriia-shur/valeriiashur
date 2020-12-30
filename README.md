@@ -16,11 +16,5 @@ Maps and visualizations are my passion. My experience covers implementing large-
 
 ### 📬 Get in Touch
 
-<!---
-<img src="icons/Linkedin_2.svg" alt="drawing" width="32px"/>
-
-[![LinkedIn](icons/Linkedin_2.svg)](https://www.linkedin.com/in/valeriia-shurupina )
-[![Twitter](icons/Twitter_2.png)](https://twitter.com/valeriiashur)
---->
-
-<a href="https://www.linkedin.com/in/valeriia-shurupina" target="_blank" rel="nofollow"><img align="left" alt="Linkdein" width="32px" src="icons/Linkedin_2.png" /></a><a href="https://twitter.com/valeriiashur" target="_blank" rel="nofollow"><img align="left" alt="Twitter" width="32px" src="icons/Twitter_2.png" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/valeriia-shurupina)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/valeriiashur)
