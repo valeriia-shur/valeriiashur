@@ -7,7 +7,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 
-I am **a Data/Geo-ICT/GIS Engineer** and **Cartographer** with a broad international background, actively **looking for a job opportunity in the Netherlands** 🇳🇱. 
+I am **a Data/Geo-ICT/GIS Engineer** and **Cartographer** with a broad international background, actively **looking for a job opportunity in the Netherlands**. 
 
 Maps and visualizations are my passion. My experience covers implementing large-scale GIS projects, advanced GIS software, and graphic editing software. My recent working experience is developing and commercializing [a map product](https://how-old-is-this.house/kazan/en/) of a city with 70k buildings.
 - 🔭 I’m currently growing my skillset in JavaScript
