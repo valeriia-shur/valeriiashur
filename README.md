@@ -5,7 +5,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 
 I am **a Data/Geo-ICT/GIS Engineer** and **Cartographer** with a broad international background, actively **looking for a job opportunity in the Netherlands**. 
 
@@ -16,5 +15,6 @@ Maps and visualizations are my passion. My experience covers implementing large-
 
 ### 📬 Get in Touch
 
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lerashurupina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/valeriia-shurupina)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/valeriiashur)
