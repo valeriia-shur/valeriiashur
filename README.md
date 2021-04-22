@@ -6,10 +6,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-**Geo-ICT & GIS Specialist | Web Developer** with a broad international background, actively **looking for a job opportunity in the EU**. 
+**Junior Web Developer | GIS Specialist** with a broad international background, actively **looking for a job opportunity in the EU**. 
 
-Visulization, design, and programming are my passion. My experience covers implementing large-scale GIS projects, advanced GIS software, and graphic editing software. My recent working experience is developing and commercializing [a map product](https://how-old-is-this.house/kazan/en/) of a city with 70k buildings.
-- 🔭 I’m currently growing my skillset in JavaScript
+- 🔭 I’m currently growing my skillset in Node-js, Express, React, and TypeScript
 - 🌱 I’m a recent graduate of [MSc International Cartography](https://cartographymaster.eu/)
 ---
 
